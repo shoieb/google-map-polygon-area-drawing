@@ -1,10 +1,10 @@
 # GoogleMapPolygonAreaDrawing
 
 A sample project to draw polygon area on google map. Currently the maximum limit to create areas is set to 3.
-The initial view contains tow buttons and a map container.
+The initial view contains two buttons and a map container.
 On the first load the map is in drawing mode, and you can create your first area. In the middle of the area you will find the area calculation in square meters and hectares.
 Also you can click on the top Add button to add more areas.
-You can click on the area to select it to update or click the top Remove button to remove it.
+You can also click on the area to select it to update or click the top Remove button to remove it. After updating an area the calculations will automatically get updated.
 On the bottom of the map the total of all areas is shown.
 
 
